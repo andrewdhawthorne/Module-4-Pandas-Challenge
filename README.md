@@ -1,5 +1,5 @@
 # Module-4-Pandas-Challenge
-files for Data Boot Camp Module 3 Python Challege
+files for Data Boot Camp Module 4 Pandas Challege
 
 # Challenge Overview 
 
@@ -31,6 +31,6 @@ Using this information I analyzed the relationship between school type, student 
 
 Link: https://stackoverflow.com/questions/32464280/converting-currency-with-to-numbers-in-python-pandas
 
-    Used in code box 238 as previous formatting was not allowing code to run. 
+    Used in box 238 as previous formatting in box 232 was not allowing code to run properly. 
 
-Classmates: I worked on this homework extensively with cohort members Caleb Gould and Fidel Carrillo. 
+Classmates: I worked extensively with cohort members Caleb Gould and Fidel Carrillo. 
